@@ -1,5 +1,5 @@
 # SLIXON
-The Slixon App!
+The Slixon Chat Private and group Messenger with VoIP!
 
 # License
 This is a private exclusive-only code. 
